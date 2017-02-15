@@ -1,3 +1,5 @@
+# Git kommandon
+
 1) npm init - (skapar package.json)
 
 2) npm install express --save (skapar struktur node_modules)
@@ -13,13 +15,13 @@ GITHUB
 5 commands
 new repository (project)
 
-git clone xxx (h‰mtar frÂn repository)
+git clone xxx (h√§mtar fr√•n repository)
 git status 
 git add file.typ [git add . (allt) -A ]
 git commit -m "lagt till en fil"
 git push
 git pull ()
 
-1) git pull (‰ndringar?)
+1) git pull (√§ndringar?)
 git (visar kommandon)
 git VI esc:wq = write quit
