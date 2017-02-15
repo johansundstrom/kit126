@@ -1,0 +1,11 @@
+Arbetsmiljön
+
+1) installera git från https://git-scm.com/ (klicka på downloads for [ditt OS]) - klart
+
+2) Installera Code från https://code.visualstudio.com/ (Klicka på download)
+
+3) Skapa en mapp med namnet "kit126" på valbar plats i din dator. Skapa ytterligare en mapp i den föregående mappen med namnet "test_av_git"
+
+4) Starta Visual Studio Code
+
+5) 
