@@ -22,3 +22,8 @@
   1) git pull (ändringar?)
   git (visar kommandon)
   git VI esc:wq = write quit
+
+## Three stages
+  1. committed (säkert förvar i databasen)
+  2. modified (förändrad med ej committed)
+  3. staged (märkt för att bli committed)
