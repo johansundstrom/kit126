@@ -1,0 +1,25 @@
+1) npm init - (skapar package.json)
+
+2) npm install express --save (skapar struktur node_modules)
+
+3) npm install mongodb ()
+
+4) npm install express-generator -g (boilerplate)
+4b) express --view=jade ()
+
+
+
+GITHUB 
+5 commands
+new repository (project)
+
+git clone xxx (hämtar från repository)
+git status 
+git add file.typ [git add . (allt) -A ]
+git commit -m "lagt till en fil"
+git push
+git pull ()
+
+1) git pull (ändringar?)
+git (visar kommandon)
+git VI esc:wq = write quit
